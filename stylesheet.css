@@ -1,0 +1,22 @@
+*{
+    background-color: aquamarine;
+}
+
+.container{
+    display: flex;
+    background-color: rgb(106, 1, 1);
+    justify-content: center;
+}
+
+.fitem{
+    background-color: peachpuff;
+    margin: 10px;
+    padding: 20px;
+    border: 12px solid black;
+    text-align: center;
+    display: flex;
+    flex-grow: 2;
+}
+
+
+
